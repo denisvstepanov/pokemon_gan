@@ -1,0 +1,6 @@
+notebooks/.ipynb_checkpoints/*
+vocab/*
+train_logs/*
+.venv/*
+.data/*
+.MNIST/*
